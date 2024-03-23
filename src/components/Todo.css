@@ -1,0 +1,15 @@
+.addTodo{
+    font-size: 33px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.form-control{
+    border: none !important;
+}
+
+.form-control:focus{
+    box-shadow: none !important;
+    border:none;
+    background-color: none;
+}
